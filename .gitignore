@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/node,grunt,bower,yeoman
 
+### Project specific ###
+/hdb-data
+
 ### TypeScript ###
 .tscache
 *.js.map
