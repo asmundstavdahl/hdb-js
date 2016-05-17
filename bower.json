@@ -1,0 +1,27 @@
+{
+  "name": "hdbjs",
+  "description": "TypeScript implementation of HyperDB server",
+  "main": "bin/www",
+  "authors": [
+    "Åsmund Stavdahl <asmund.stavdahl@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "hdb",
+    "server",
+    "typescript"
+  ],
+  "homepage": "http://asmund.stavdahl.no/software/hdbjs",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}

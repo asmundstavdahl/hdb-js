@@ -1,0 +1,6 @@
+PUT /api/key/z HTTP/1.1
+HOST: localhost:3000
+content-type: application/x-www-form-urlencoded
+content-length: 11
+
+value=dette
